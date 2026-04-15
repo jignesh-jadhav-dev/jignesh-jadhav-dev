@@ -50,6 +50,10 @@ I am a **goal-oriented BSc IT graduate** and an aspiring **Junior Full-Stack Jav
 
 ## 📚 Technical Skills
 
+<a href="https://github.com/jignesh-jadhav-dev">   
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
+</a>
+
 - **Programming Languages:** Core Java, JavaScript, SQL
 - **Java Concepts:** OOP, Exception Handling, Collections Framework, Multithreading
 - **Backend Technologies:** Servlets, JSP, JDBC
