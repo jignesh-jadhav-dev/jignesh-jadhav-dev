@@ -167,7 +167,9 @@ A full-stack web-based application designed to digitize staff records, streamlin
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jignesh-jadhav-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=jignesh-jadhav-dev&theme=onedark&column=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
