@@ -155,12 +155,12 @@ A full-stack web-based application designed to digitize staff records, streamlin
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jignesh-jadhav-dev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jignesh-jadhav-dev&layout=compact&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jignesh-jadhav-dev&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jignesh-jadhav-dev&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jignesh-jadhav-dev&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=jignesh-jadhav-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
