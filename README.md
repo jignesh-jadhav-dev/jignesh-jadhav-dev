@@ -22,28 +22,35 @@
 
 ## 👨‍💻 About Me
 
-I am a **goal-oriented BSc IT graduate** and an aspiring **Junior Full-Stack Java Developer** with a strong interest in building efficient, scalable, and user-friendly web applications.
+Motivated **B.Sc. IT graduate** skilled in **Core Java, Advanced Java, Spring Boot, Hibernate, SQL, HTML, CSS, and JavaScript**. Passionate about developing scalable and user-friendly web applications. Seeking an entry-level **Software Developer / Java Developer** role to apply my technical skills and grow as a Java Full Stack Developer.
 
-- 🎓 BSc IT Graduate from **Wada College of Management and Science, Mumbai University**
-- 📊 Graduated with **CGPI: 8.88**
-- 💻 Skilled in **Core Java, Servlets, JSP, JDBC, Hibernate, PostgreSQL, MySQL**
-- 🌱 Currently focused on improving my **backend development, Java web technologies, and database design**
-- 🎯 Interested in building secure and practical applications that solve real-world problems
+* 🎓 B.Sc. IT Graduate from **Wada College of Management and Science, Mumbai University**
+* 📊 Graduated with **CGPI: 8.88**
+* 💻 Skilled in **Core Java, Advanced Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, JDBC, Servlets, JSP, PostgreSQL**
+* 🌱 Currently focused on improving my **backend development, Java web technologies, Spring Boot, and database design**
+* 🎯 Interested in building secure, scalable, and practical applications that solve real-world problems
+* 📍 Based in **Mumbai, Maharashtra**
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,postgres,hibernate,git,github,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,postgres,mysql,hibernate,git,github,vscode,eclipse" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Core%20Java-OOP%20Concepts-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Advanced%20Java-Web%20Development-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Backend-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Spring%20MVC-Web%20Framework-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-ORM-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hibernate-ORM-yellow?style=flat-square" />
   <img src="https://img.shields.io/badge/Servlets-Java%20Web-success?style=flat-square" />
   <img src="https://img.shields.io/badge/JSP-Dynamic%20Pages-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/JDBC-Database%20Connectivity-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-Server-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/pgAdmin-Database%20Tool-316192?style=flat-square" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-316192?style=flat-square" />
+  <img src="https://img.shields.io/badge/STS-Spring%20Tool%20Suite-6DB33F?style=flat-square" />
 </p>
 
 ---
@@ -54,46 +61,94 @@ I am a **goal-oriented BSc IT graduate** and an aspiring **Junior Full-Stack Jav
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
 </a>
 
-- **Programming Languages:** Core Java, JavaScript, SQL
-- **Java Concepts:** OOP, Exception Handling, Collections Framework, Multithreading
-- **Backend Technologies:** Servlets, JSP, JDBC
-- **Frameworks:** Hibernate
-- **Databases:** MySQL, PostgreSQL
-- **Web Technologies:** HTML5, CSS3, JavaScript (ES6+, DOM Manipulation, Promises)
-- **Tools:** Eclipse, VS Code, Apache Tomcat, pgAdmin, MySQL Workbench, GitHub
+* **Programming Languages:** Core Java, Advanced Java, JavaScript, SQL
+* **Java Concepts:** OOP, Exception Handling, Collections Framework, Multithreading
+* **Frameworks & Technologies:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate, JDBC, Servlets, JSP
+* **Frontend Technologies:** HTML5, CSS3, JavaScript
+* **Databases:** PostgreSQL, MySQL
+* **Tools & IDEs:** Eclipse, Spring Tool Suite (STS), VS Code, GitHub, pgAdmin, MySQL Workbench
+* **Development Skills:** CRUD Operations, Role-Based Authentication, Pagination, Search Filters, Database Integration
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 🏥 Smart Clinic Management System
+
+**Duration:** Feb 2026 – Apr 2026
+**Tech Stack:** Java, Spring Boot, Spring Data JPA, JSP, PostgreSQL
+
+A web-based clinic management system designed to automate appointment booking, prescription management, and patient record handling.
+
+#### Key Highlights:
+
+* Developed a **Smart Clinic Management System** to automate appointment booking and prescription management
+* Reduced manual clinic workflows by **35%**
+* Implemented secure **role-based login** for Admin, Doctor, and Patient modules
+* Optimized patient record retrieval speed by **25%** using pagination and search filters
+* Integrated **PostgreSQL with Spring Data JPA** to perform efficient CRUD operations
+
+---
+
+### 🚗 Online Vehicle Rental Portal
+
+**Duration:** Dec 2025 – Jan 2026
+**Tech Stack:** Core Java, JDBC, Servlets, JSP, PostgreSQL
+
+A full-stack web application developed to automate vehicle rental workflows, allowing customers to view, book, and manage vehicle rentals online.
+
+#### Key Highlights:
+
+* Engineered an **Online Vehicle Rental Portal** to automate vehicle rental workflows
+* Enabled customers to view and book vehicles online
+* Reduced manual rental processing by **40%**
+* Secured Admin and Customer modules using **role-based authentication**
+* Implemented availability checks and automated rent calculation to improve booking accuracy by **30%**
+* Automated booking approvals and payment tracking, reducing admin processing time by **25%**
+
+---
 
 ### 🏢 Employee Management System
+
 **Tech Stack:** Core Java, Servlets, JSP, JDBC, PostgreSQL, Apache Tomcat
 
 A full-stack web-based application designed to digitize staff records, streamline HR operations, and manage employee authentication with secure CRUD functionality.
 
 #### Key Highlights:
-- Developed complete **CRUD operations** for employee record management
-- Implemented **secure role-based authentication** using Servlets and Session Tracking
-- Built a **web-based admin dashboard** for smooth employee management
-- Reduced **data redundancy by 25%** using normalized database design
+
+* Developed complete **CRUD operations** for employee record management
+* Implemented **secure role-based authentication** using Servlets and Session Tracking
+* Built a **web-based admin dashboard** for smooth employee management
+* Reduced **data redundancy by 25%** using normalized database design
 
 ---
 
 ## 🎓 Education
 
-- **Bachelor of Science in Information Technology**  
-  Wada College of Management and Science, Mumbai University  
-  **CGPI: 8.88**
+* **Bachelor of Science in Information Technology**
+  Wada College of Management and Science, Mumbai University
+  **CGPI:** 8.88
+  **Duration:** Jun 2022 – May 2025
 
-- **Higher Secondary Education**  
-  New English School, Vajreshwari  
-  **Percentage: 57.17%**
+* **Higher Secondary Education**
+  New English School, Vajreshwari
+  **Percentage:** 57.17%
+  **Duration:** Jun 2021 – Mar 2022
 
 ---
 
 ## 📜 Certification
 
-- **DS-BDS Certificate in Mobile App Development**
+* **CSMS-DEEP – Digital Employability Enhancement Program**
+  **MKCL and SARTHI | Apr 2024**
+
+  Completed training in:
+
+  * Basic IT Skills
+  * Basic Mobile App Development
+  * Advanced Mobile App Development
+  * English Communication
+  * Soft Skills
 
 ---
 
